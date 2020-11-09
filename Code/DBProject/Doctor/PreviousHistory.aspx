@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/assets/css/grid-view.css"/>
 
 
-    <h1><strong style="margin:25%">History of Treated Patients</strong></h1>
+    <h1><strong style="margin:45%">History</strong></h1>
     <br /><br />
 
     <asp:Label ID="PHistory" runat="server"></asp:Label>

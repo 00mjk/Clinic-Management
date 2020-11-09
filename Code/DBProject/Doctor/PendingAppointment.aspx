@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="/assets/css/grid-view.css" />
 
 
-  <h1><strong style="margin:25%">Pending Appointments</strong></h1>
+  <h1><strong style="margin:35%">Pending Appointments</strong></h1>
   <br /><br />
   <div style="margin-left:300px">
 

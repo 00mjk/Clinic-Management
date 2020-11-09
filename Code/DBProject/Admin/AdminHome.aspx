@@ -18,19 +18,19 @@
 
         <div style="margin-left: 70px">
 
-            <h4><strong>Total Number of Regstered Doctors: </strong></h4>
+            <h4 style="color: black;"><strong>Total Number of Regstered Doctors: </strong></h4>
             <asp:Label ID="TotalPatients" runat="server" Font-Bold="true" Font-Size="Medium"></asp:Label>
             <br /><br />
 
-            <h4><strong>Total Registered Patients: </strong></h4>
+            <h4 style="color: red;"><strong>Total Registered Patients: </strong></h4>
             <asp:Label ID="Total_Doctors" runat="server" Font-Bold="true" Font-Size="Medium"></asp:Label>
             <br /><br />
 
-            <h4><strong>Total Income: </strong></h4>
+            <h4 style="color: green;"><strong>Total Income: </strong></h4>
             <asp:Label ID="TotalIncome" runat="server" Font-Bold="true" Font-Size="Medium"></asp:Label>
             <br /><br />
 
-            <h3><strong style="margin:5%">Current Appointments</strong></h3>
+            <h3><strong>Current Appointments</strong></h3>
 
             <asp:gridview ID="Appointment_view" runat="server" CellPadding="4" ForeColor="Black" GridLines="Vertical"
                 BackColor="White" BorderColor="#DEDFDE" BorderStyle="None" BorderWidth="1px">
@@ -50,7 +50,7 @@
 
         <div style="margin:20%">
 
-            <h2><strong style="margin:20%">Department Information</strong></h2>
+            <h2><strong style="margin:20%; color: green;">Department Information</strong></h2>
 
             <asp:gridview ID="department_View" runat="server" CellPadding="4" ForeColor="Black" Height="50px"
                 BackColor="White" BorderColor="#DEDFDE" BorderStyle="None" BorderWidth="1px" GridLines="Vertical">

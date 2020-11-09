@@ -63,7 +63,7 @@
 
                                 <div class="description">
                                     <p>
-                                        This is a <strong>"registeration form"</strong> for Pranam Health Care.
+                                        This is a <strong>"Registeration Form"</strong> for Pranam Health Care.
                                         Fill out the information to register the staff member:
 
                                     </p>
@@ -186,8 +186,7 @@
 
                 <div class="col-sm-8 col-sm-offset-2">
                     <div class="footer-border"></div>
-                    <p style="color:darkslategrey">if You have Any Query
-                        Please Feel Free to Contact US. <i class="fa fa-smile-o"></i></p>
+                    <p style="color:darkslategrey"> If you have any queries, please feel free to contact us <i class="fa fa-smile-o"></i></p>
                 </div>
             </div>
             </div>

@@ -17,31 +17,44 @@ For Database: SQL
 
 ## Interface :
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ADMIN
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### DOCTOR
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Patient
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Home Page 
-<img src="../master/images/Clinic Management Home Page.JPG"/>
+<img src="../master/images/Patient/Clinic Management Home Page.JPG"/>
 
 ### Notifications
-<img src="../master/images/Notifications Page.JPG"/> 
+<img src="../master/images/Patient/Notifications Page.JPG"/> 
 
 ### Current Appointments
-<img src="../master/images/Current Appointment Page.JPG"/> 
+<img src="../master/images/Patient/Current Appointment Page.JPG"/> 
 
 ### Take Appointment
-<img src="../master/images/Appointment Page.JPG"/> 
+<img src="../master/images/Patient/Appointment Page.JPG"/> 
 
 ### Bills History
-<img src="../master/images/Bills History.JPG"/> 
+<img src="../master/images/Patient/Bills History.JPG"/> 
 
 ### Treatment History
-<img src="../master/images/Treatment History.JPG"/> 
+<img src="../master/images/Patient/Treatment History.JPG"/> 
 
 ### Feedback
-<img src="../master/images/Feedback.JPG"/> 
+<img src="../master/images/Patient/Feedback.JPG"/> 
 
-<!-- ### Search Staff
-<img src="../master/images/search.png"/>  -->
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Functionalities Implemented:
 Our project revolves around three major classes of users. Characteristics of each class are listed below

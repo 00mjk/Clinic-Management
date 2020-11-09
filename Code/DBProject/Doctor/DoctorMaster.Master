@@ -92,7 +92,7 @@
 
         <!--- Footer starts here -->
 
-        <footer class="footer-distributed"  >
+        <footer class="footer-distributed" >
 
 			<div class="footer-left">
 
@@ -131,7 +131,13 @@
 
     			<div class="footer-icons">
 
+    				<a href="#"><i class="fa fa-google"></i></a>
+
     				<a href="#"><i class="fa fa-facebook"></i></a>
+
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+
+                    <a href="#"><i class="fa fa-instagram"></i></a>
 
     			</div>
 

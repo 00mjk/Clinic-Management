@@ -26,6 +26,13 @@ insert into department values(5 , 'Neurology', 'A medical speciality dealing wit
 
 
 --LOGIN TABLE INSERTIION
+
+/* Role : Admin */
+
+INSERT INTO LoginTable(Email, Password, Type) VALUES('adminpranam@gmail.com', 'pranam', 3)
+
+/* Role : Doctor */
+
 INSERT INTO LoginTable(Email, Password, Type) VALUES('farhan@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('kashan@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('hassaan@gmail.com', 'abc',2)
@@ -36,6 +43,8 @@ INSERT INTO LoginTable(Email, Password, Type) VALUES('shariq@gmail.com', 'abc', 
 INSERT INTO LoginTable(Email, Password, Type) VALUES('awais@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('saifi@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('mansha@gmail.com', 'abc', 2)
+
+/* Role : Patient */
 
 INSERT INTO LoginTable(Email, Password, Type) VALUES('ABC@gmail.com', 'abc', 1)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('DEF@gmail.com', 'abc', 1)
